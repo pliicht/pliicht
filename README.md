@@ -16,26 +16,6 @@ Currently exploring **Python, Java, Android reverse engineering, and web technol
 | JavaScript | Android Studio | Web Development 🌐 |
 | C/C++ | Flask / FastAPI | Data Processing 📊 |
 
----
-
-## 🔭 Featured Projects
-
-### 🌐 [PoeticWeb.github.io](https://github.com/pliicht/PoeticWeb.github.io)
-My personal website and frontend experiments — built with HTML/CSS/JS. Showcases projects and coding experiments.
-
-### 📋 [A-I-todolist-by-javaswing](https://github.com/pliicht/A-I-todolist-by-javaswing)
-A lightweight **to-do list desktop app** using Java Swing, designed for productivity.
-
-### ⭐ [-csv-](https://github.com/pliicht/-csv-)
-A tool for **processing and analyzing CSV files**, suitable for data handling tasks.
-
-### 🧪 [cent](https://github.com/pliicht/cent)
-(Utility or experiment project — briefly describe what it does.)
-
-### 📦 [pliicht](https://github.com/pliicht/pliicht)
-(A collection of small tools or demos.)
-
----
 
 ## 📊 GitHub Stats
 
@@ -48,7 +28,7 @@ A tool for **processing and analyzing CSV files**, suitable for data handling ta
 ## 📫 Contact & Connect
 
 - 🌐 Website: [poeticlight.top](https://poeticlight.top)  
-- 📧 Email: (Add your email here)  
+- 📧 Email: pliicht@hotmail.com
 - 💬 Open for collaborations, tech discussions, and learning opportunities!
 
 ---
