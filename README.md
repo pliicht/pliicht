@@ -1,61 +1,56 @@
 # 👋 Hi, I'm **pliicht**
 
-Welcome to my GitHub profile! I’m a developer passionate about building cool tools, web projects, and solving practical problems through code.
+I'm a **third-year Computer Science & Technology student** with a passion for software development, reverse engineering, and practical projects.  
+Currently exploring **Python, Java, Android reverse engineering, and web technologies**.  
+
+💡 I enjoy building tools, solving real-world problems, and sharing knowledge through code.  
 
 ---
 
-## 🚀 About Me
+## 🧰 Tech Stack
 
-🔹 GitHub: https://github.com/pliicht  
-🔹 Website: https://poeticlight.top (your personal site)  
-🔹 Interests: Web development, data processing, Java applications, UI projects
-
----
-
-## 🛠️ Tech Stack
-
-**Languages & Tools:**  
-- **Java** – GUI & application development  
-- **HTML/CSS/JS** – Frontend and static site building  
-- **Python** – Data processing & scripting  
-- **Git & GitHub** – Version control and collaboration
+| Languages | Tools & Platforms | Others |
+|-----------|-----------------|--------|
+| Python 🐍 | Git & GitHub | Linux 🐧 |
+| Java ☕ | VS Code / IntelliJ IDEA | Docker 🐳 |
+| JavaScript | Android Studio | Web Development 🌐 |
+| C/C++ | Flask / FastAPI | Data Processing 📊 |
 
 ---
 
-## 📌 Featured Projects
+## 🔭 Featured Projects
 
-### ⭐ Popular Repositories
+### 🌐 [PoeticWeb.github.io](https://github.com/pliicht/PoeticWeb.github.io)
+My personal website and frontend experiments — built with HTML/CSS/JS. Showcases projects and coding experiments.
 
-#### 🔹 **-csv-**
-A CSV handling tool / project to process or analyze CSV data (expand with description).
+### 📋 [A-I-todolist-by-javaswing](https://github.com/pliicht/A-I-todolist-by-javaswing)
+A lightweight **to-do list desktop app** using Java Swing, designed for productivity.
 
-#### 🌐 **PoeticWeb.github.io**
-My personal site / frontend project built with HTML/CSS.  
-🔗 https://github.com/pliicht/PoeticWeb.github.io
+### ⭐ [-csv-](https://github.com/pliicht/-csv-)
+A tool for **processing and analyzing CSV files**, suitable for data handling tasks.
 
-#### 📋 **A-I-todolist-by-javaswing**
-A to‑do list application built with Java Swing — desktop productivity tool.
+### 🧪 [cent](https://github.com/pliicht/cent)
+(Utility or experiment project — briefly describe what it does.)
 
-#### 🧪 **cent**
-(Write one‑line description of what cent does or what technology it uses.)
-
-#### 📦 **pliicht**
-(If this is a utility project or demo, add a short summary here.)
+### 📦 [pliicht](https://github.com/pliicht/pliicht)
+(A collection of small tools or demos.)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pliicht&show_icons=true&theme=radical)
+![pliicht's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pliicht&show_icons=true&theme=radical&hide=issues)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pliicht&layout=compact&theme=radical)
 
 ---
 
-## 📫 Contact
+## 📫 Contact & Connect
 
-- 💬 Website: https://poeticlight.top  
-- 📧 Email: (Add your email if you’re comfortable sharing)  
-- 💼 More projects: Explore pinned repositories above
+- 🌐 Website: [poeticlight.top](https://poeticlight.top)  
+- 📧 Email: (Add your email here)  
+- 💬 Open for collaborations, tech discussions, and learning opportunities!
 
 ---
 
-Thanks for visiting my profile! Feel free to explore my work and reach out if you want to collaborate. 😊
+> 🎓 Currently a third-year CS student, eager to grow, learn, and contribute to exciting projects!
