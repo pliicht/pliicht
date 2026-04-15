@@ -27,7 +27,7 @@ Currently exploring **Python, Java, Android reverse engineering, and web technol
 
 ## 📫 Contact & Connect
 
-- 🌐 Website: [poeticlight.top](https://poeticlight.top)  
+- 🌐 Website: [blog.poeticlight.top](https://blog.poeticlight.top)  
 - 📧 Email: pliicht@hotmail.com
 - 💬 Open for collaborations, tech discussions, and learning opportunities!
 
