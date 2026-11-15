@@ -1,6 +1,6 @@
 # 👋 Hi, I'm **pliicht**
 
-I'm a **third-year Computer Science & Technology student** with a passion for software development, reverse engineering, and practical projects.  
+I'm a **forth-year Computer Science & Technology student** with a passion for software development, reverse engineering, and practical projects.  
 Currently exploring **Python, Java, Android reverse engineering, and web technologies**.  
 
 💡 I enjoy building tools, solving real-world problems, and sharing knowledge through code.  
