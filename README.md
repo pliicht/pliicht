@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **pliicht**
 
 I'm a **forth-year Computer Science & Technology student** with a passion for software development, reverse engineering, and practical projects.  
-Currently exploring **Python, Java, Android reverse engineering, and web technologies, Mabey transfer to Embodied AI and Agent**.  
+Currently exploring **Embodied AI, Agent, harness**.  
 
 💡 I enjoy building tools, solving real-world problems, and sharing knowledge through code.  .
 ---
@@ -21,6 +21,3 @@ Currently exploring **Python, Java, Android reverse engineering, and web technol
 - 📧 Email: pliicht@hotmail.com
 - 💬 Open for collaborations, tech discussions, and learning opportunities!
 
----
-
-> 🎓 Currently a third-year CS student, eager to grow, learn, and contribute to exciting projects!
