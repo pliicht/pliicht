@@ -1,9 +1,7 @@
 # 👋 Hi, I'm **pliicht**
 
 I'm a **forth-year Computer Science & Technology student** with a passion for software development, reverse engineering, and practical projects.  
-Currently exploring **Embodied AI, Agent, harness**.  
-
-💡 I enjoy building tools, solving real-world problems, and sharing knowledge through code.  .
+Currently exploring **Embodied AI, Agent, harness**. I enjoy building tools, solving real-world problems, and sharing knowledge through code.  
 ---
 
 
