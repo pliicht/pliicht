@@ -1,20 +1,10 @@
 # 👋 Hi, I'm **pliicht**
 
 I'm a **forth-year Computer Science & Technology student** with a passion for software development, reverse engineering, and practical projects.  
-Currently exploring **Python, Java, Android reverse engineering, and web technologies**.  
+Currently exploring **Python, Java, Android reverse engineering, and web technologies, Mabey transfer to Embodied AI and Agent**.  
 
-💡 I enjoy building tools, solving real-world problems, and sharing knowledge through code.  
-
+💡 I enjoy building tools, solving real-world problems, and sharing knowledge through code.  .
 ---
-
-## 🧰 Tech Stack
-
-| Languages | Tools & Platforms | Others |
-|-----------|-----------------|--------|
-| Python 🐍 | Git & GitHub | Linux 🐧 |
-| Java ☕ | VS Code / IntelliJ IDEA | Docker 🐳 |
-| JavaScript | Android Studio | Web Development 🌐 |
-| C/C++ | Flask / FastAPI | Data Processing 📊 |
 
 
 ## 📊 GitHub Stats
